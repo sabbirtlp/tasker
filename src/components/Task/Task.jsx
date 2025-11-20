@@ -1,4 +1,4 @@
-import BorderedStar from "../SvgIcons/borderedStar"
+import BorderedStar from '../SvgIcons/BorderedStar'
 import YellowStar from "../SvgIcons/YellowStar"
 
 export default function Task({ task, onEdit, onDelete, handleIsFavourite }) {
